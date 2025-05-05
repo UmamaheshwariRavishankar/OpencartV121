@@ -1,27 +1,2 @@
-2025-04-28 10:24:25 INFO  TC001_AccountRegistrationTest:16 - **********Starting of AccountRegistration Test Case**************
-2025-04-28 10:24:25 INFO  TC001_AccountRegistrationTest:21 - Clicked on My Account
-2025-04-28 10:24:27 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register
-2025-04-28 10:24:27 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
-2025-04-28 10:24:30 INFO  TC001_AccountRegistrationTest:42 - **********Finished AccountRegistration Test Case**************
-2025-04-28 10:24:33 INFO  TC002_LoginTest:16 - **********Starting of Login Test **************
-2025-04-28 10:24:36 INFO  TC002_LoginTest:36 - **********End of Login Test**************
-2025-04-28 10:28:28 INFO  TC001_AccountRegistrationTest:16 - **********Starting of AccountRegistration Test Case**************
-2025-04-28 10:28:29 INFO  TC001_AccountRegistrationTest:21 - Clicked on My Account
-2025-04-28 10:28:30 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register
-2025-04-28 10:28:30 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
-2025-04-28 10:28:32 INFO  TC001_AccountRegistrationTest:42 - **********Finished AccountRegistration Test Case**************
-2025-04-28 10:28:41 INFO  TC002_LoginTest:16 - **********Starting of Login Test **************
-2025-04-28 10:28:43 INFO  TC002_LoginTest:36 - **********End of Login Test**************
-2025-04-28 10:48:46 INFO  TC001_AccountRegistrationTest:16 - **********Starting of AccountRegistration Test Case**************
-2025-04-28 10:48:47 INFO  TC001_AccountRegistrationTest:21 - Clicked on My Account
-2025-04-28 10:48:47 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register
-2025-04-28 10:48:47 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
-2025-04-28 10:48:49 INFO  TC001_AccountRegistrationTest:42 - **********Finished AccountRegistration Test Case**************
-2025-04-28 10:48:57 INFO  TC002_LoginTest:16 - **********Starting of Login Test **************
-2025-04-28 10:49:00 INFO  TC002_LoginTest:36 - **********End of Login Test**************
-2025-04-28 11:12:14 INFO  TC002_LoginTest:16 - **********Starting of Login Test **************
-2025-04-28 11:12:16 INFO  TC002_LoginTest:36 - **********End of Login Test**************
-2025-04-28 11:30:39 INFO  TC002_LoginTest:16 - **********Starting of Login Test **************
-2025-04-28 11:30:42 INFO  TC002_LoginTest:36 - **********End of Login Test**************
-2025-04-28 11:41:25 INFO  TC002_LoginTest:16 - **********Starting of Login Test **************
-2025-04-28 11:41:28 INFO  TC002_LoginTest:36 - **********End of Login Test**************
+2025-05-04 23:44:28 INFO  TC002_LoginTest:16 - **********Starting of Login Test **************
+2025-05-04 23:44:30 INFO  TC002_LoginTest:36 - **********End of Login Test**************

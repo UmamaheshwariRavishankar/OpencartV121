@@ -22,6 +22,12 @@ public class HomePage extends BasePage{
 	@FindBy(xpath="//a[normalize-space()='Login']") 
 	WebElement txt_login;
 	
+	@FindBy(xpath = "//input[@placeholder='Search']")
+	WebElement search_input;
+	
+	@FindBy(xpath = "//i[@class='fa fa-search']")
+	WebElement btn_Continue;
+	
 	//Action methods
 	public void clickMyAccount()
 	{
@@ -36,6 +42,27 @@ public class HomePage extends BasePage{
 	public void clickLogin()
 	{
 		txt_login.click();
+	}
+	public boolean isLoginBtnDisplayed()
+	{
+		try
+		{
+		return(txt_login.isDisplayed());
+		}
+		catch(Exception e)
+		{
+			return(false);
+		}
+	}
+	
+	public void sendSearchItems()
+	{
+		search_input.sendKeys("iPhone");
+	}
+	
+	public void clickContinueBtn()
+	{
+		btn_Continue.click();
 	}
 
 }
